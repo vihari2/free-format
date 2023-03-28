@@ -5,7 +5,7 @@ Este projeto é uma plataforma open-source para formatação de trabalhos acadê
 Este projeto está sendo desenvolvido utilizando as seguintes tecnologias:
 - C# 
 - Vue.js
-- .NET Framework
+- .NET Core
 - ASP.NET
 - MySQL
 
